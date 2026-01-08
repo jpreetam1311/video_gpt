@@ -12,6 +12,9 @@ import tempfile
 import os
 from dotenv import load_dotenv
 
+MAX_FILE_SIZE_MB = 50
+MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
+
 load_dotenv()  # local development
 
 API_KEY = None
