@@ -1,0 +1,4 @@
+streamlit
+phidata
+google-genai
+python-dotenv
