@@ -12,6 +12,8 @@ This project is a web-based **multimodal video analysis assistant** that enables
 
 While implemented as an interactive Streamlit app, the system is best viewed as a **generalizable AI capability** for extracting insight from unstructured video data, applicable across domains such as operations, compliance, media review, training, and automation workflows.
 
+Test it here: https://videogpt-01.streamlit.app/
+
 ---
 
 ## 🎯 Problem Framing (Generalized)
